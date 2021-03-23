@@ -1,1 +1,2 @@
 This is clone.
+We are learning hot to clone projects here.
